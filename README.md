@@ -41,7 +41,8 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 <br />
 
 <p>
-<img width="1206" alt="Screen Shot 2023-09-01 at 7 23 03 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/caab59ff-0509-410f-a2f2-32d807bd0c6c">
+<img width="1206" alt="Screen Shot 2023-09-01 at 7 23 03 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/1dd4fcb5-934d-4835-b7fd-09117208a1ad">
+
 
 </p>
 <p>
