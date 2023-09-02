@@ -62,3 +62,5 @@ From the Installation Files, download and install the Rewrite Module (rewrite_am
 Create the directory C:\PHP
 <img width="1292" alt="Screen Shot 2023-09-01 at 7 30 35 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/302686e5-ef95-417d-8894-1552721fd2e7">
 From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+<img width="1203" alt="Screen Shot 2023-09-01 at 7 33 42 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/856db3ca-251c-473f-a827-7f604c1b647e">
+From the Installation Files, download and install VC_redist.x86.exe.
