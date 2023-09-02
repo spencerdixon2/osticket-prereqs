@@ -124,3 +124,13 @@ New Permissions -> Everyone -> All
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
+
+
+<img width="1206" alt="Screen Shot 2023-09-01 at 7 58 20 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/22037ad0-a440-479d-a949-0a77dce8c30d">
+
+
+From the Installation Files, download and install HeidiSQL.
+Open Heidi SQL
+Create a new session, 
+Connect to the session
+Create a database called “osTicket”
