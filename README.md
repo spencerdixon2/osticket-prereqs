@@ -134,3 +134,11 @@ Open Heidi SQL
 Create a new session, 
 Connect to the session
 Create a database called “osTicket”
+
+
+<img width="1204" alt="Screen Shot 2023-09-01 at 8 00 42 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/6bf8aa86-11ae-4d26-b664-812ec17e3d4e">
+
+
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+Click “Install Now!”
