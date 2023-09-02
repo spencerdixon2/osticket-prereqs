@@ -78,7 +78,17 @@ From the Installation Files, download and install VC_redist.x86.exe.
 
 <img width="1200" alt="Screen Shot 2023-09-01 at 7 35 19 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/4f32ae18-cf04-4c57-af18-b53ab5877ac1">
 
+
 From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup ->
 Launch Configuration Wizard (after install) ->
 Standard Configuration ->
+
+
+<img width="1190" alt="Screen Shot 2023-09-01 at 7 40 30 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/c5f16703-2c70-4640-bafb-878a5d42ea3c">
+
+
+Register PHP from within IIS
+
+
+<img width="1198" alt="Screen Shot 2023-09-01 at 7 52 00 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/f2f06fbc-6305-4cb7-a11e-17433dacfe28">
