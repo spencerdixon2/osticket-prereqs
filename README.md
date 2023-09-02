@@ -58,3 +58,5 @@ From the Installation Files, download and install PHP Manager for IIS (PHPManage
 From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
+<img width="1207" alt="Screen Shot 2023-09-01 at 7 27 23 PM" src="https://github.com/spencerdixon2/osticket-prereqs/assets/143224941/3727d77a-56a3-4e90-9ae3-4a74b7ac0037">
+Create the directory C:\PHP
